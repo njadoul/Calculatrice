@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Calculatrice</string>
+    <string name="calcul">calcul</string>
+    <string name="result">result</string>
+    <string name="name">Name</string>
+    <string name="entrer_votre_fonction">Entrer votre fonction</string>
+</resources>
